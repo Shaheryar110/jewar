@@ -1,0 +1,1 @@
+export const CallBackURL = 'https://jewar-54cc4.firebaseapp.com/__/auth/handler'
